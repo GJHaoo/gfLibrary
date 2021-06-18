@@ -1,4 +1,4 @@
-module codeup.aliyun.com/sevenfifteen/sevenfifteenBoilerplate/go-library
+module github.com/GJHaoo/gfLibrary
 
 go 1.15
 
